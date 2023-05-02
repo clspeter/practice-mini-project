@@ -1,4 +1,4 @@
-# practice-mini-project
+# practice-miniproject-collection
 This is my practice mini project collection
 ## Web
 
