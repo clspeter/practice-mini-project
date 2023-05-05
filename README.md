@@ -1,4 +1,4 @@
-# side-project-collection
+# sideproject-collection
 This is my practice project collection
 ## Web
 
