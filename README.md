@@ -1,5 +1,15 @@
 # sideproject-collection
+
 This is my practice project collection
+
+## App
+
+### Train-Schedule 
+
+[Download](https://testflight.apple.com/join/dsbFuhK8)(Apple TestFlight)
+
+[GitHub](https://github.com/clspeter/Train-Schedule)
+
 ## Web
 
 ### [My Portfolio](https://next-portfolio-clspeter.vercel.app)
@@ -11,11 +21,7 @@ This is my practice project collection
 ### [Drum Machine](https://ifxdyt.csb.app/)
 ### [Markdown Previewer](https://h7lm9y.csb.app/)
 
-## App
 
-### Train-Schedule [(Apple TestFlight)](https://testflight.apple.com/join/dsbFuhK8)
-
-[GitHub](https://github.com/clspeter/Train-Schedule)
 
 ## freeCodeCamp
 
