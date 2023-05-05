@@ -12,13 +12,20 @@ This is my practice project collection
 
 ## Web
 
-### [My Portfolio](https://next-portfolio-clspeter.vercel.app)
+### [Next-Portfolio](https://next-portfolio-clspeter.vercel.app)
+
 [GitHub](https://github.com/clspeter/next-portfolio)
+
 ### [JS Caculator](https://next-calculator-blue.vercel.app/)
+
 [GitHub](https://github.com/clspeter/next-calculator)
+
 ### [25 + 5 Clock](https://pomodoro-technique-teal.vercel.app)
+
 [GitHub](https://github.com/clspeter/pomodoro-technique)
+
 ### [Drum Machine](https://ifxdyt.csb.app/)
+
 ### [Markdown Previewer](https://h7lm9y.csb.app/)
 
 
