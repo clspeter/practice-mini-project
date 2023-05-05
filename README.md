@@ -1,5 +1,5 @@
-# practice-miniproject-collection
-This is my practice mini project collection
+# side-project-collection
+This is my practice project collection
 ## Web
 
 ### [My Portfolio](https://next-portfolio-clspeter.vercel.app)
