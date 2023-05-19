@@ -1,24 +1,32 @@
 # sideproject-collection
 
-This is my practice project collection
+This page is my side project collection
 
-## App
+## Apps
 
 ### Train-Schedule 
 
-A Taiwan Railways Schedule App, made with React Native.
+A Taiwan Railways Schedule App, made with React Native and Expo.
 
 [Download from Apple TestFlight](https://testflight.apple.com/join/dsbFuhK8)
 
 [GitHub](https://github.com/clspeter/Train-Schedule)
 
-## Web
+## Webs
 
 ### [Next-Portfolio(My Portfolio)](https://next-portfolio-clspeter.vercel.app)
 
 My portfolio made with Next.js.
 
 [GitHub](https://github.com/clspeter/next-portfolio)
+
+### [Nextflix(Netflix clone)](https://nextflix-54929.web.app/)
+
+Netflix clone made with react.js that focus on integration to firebase and stripe subscription
+
+[GitHub](https://github.com/clspeter/nextflix)
+
+## Web mini projects
 
 ### [JS Caculator](https://next-calculator-blue.vercel.app/)
 
